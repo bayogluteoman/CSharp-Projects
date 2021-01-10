@@ -51,7 +51,7 @@ the computer problem is solved, I created a registration form to sign up to
 our Real Estate System. And helped Teoman building the form interaction
 with the database. Besides all of this we 3 three of us had many
 conversations about the design of our form.<hr/>
- GENERAL REPORT
+<p>GENERAL REPORT<p/>
 
 Before we can reach to our final design, we had 3 total designs. First
 design was just a demo and it was poorly designed. But it was prepared in
