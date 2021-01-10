@@ -1,8 +1,8 @@
 # REAL ESTATE REGISTRATION SYSTEM REPORT
 ## TEOMAN BAYOGLU
-## EREN ONUR KARAASLAN
-## HAKAN KADAKAL
-## CONTRIBUTIONS OF EACH MEMBER
+### EREN ONUR KARAASLAN
+#### HAKAN KADAKAL<hr>
+##CONTRIBUTIONS OF EACH MEMBER
 
 <p>Teoman Bayoglu:</p> Hakan and I created database and he sent me database
 tables (realtor, house and house_owner ). I created “dbConnection.cs” for
